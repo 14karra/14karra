@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @14karra
-- 👀 I’m interested in Software and System Engeneering.
+- 👀 I’m interested in Software and System Engineering.
 - 🌱 I’m currently learning multiple things.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me ...
